@@ -1,0 +1,18 @@
+{
+    "name":"WDA Final Project",
+    "short_name": "WDAProj",
+    "start_url":".",
+    "background_color": "#fffeee",
+    "theme_color": "#3786da",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "favicon192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "favicon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
